@@ -1,6 +1,6 @@
 # Suicide Trend Analysis (1985-2016)
 ## -- By  Economy, Gender, Age, Generation, Countries
-(Tableau Project)
+### (Tableau Project)
 
 
 ## Introduction
@@ -16,7 +16,7 @@ The data for this project consists of one data file (comes originally from [Kagg
 
 The columns include:
 
-1. country
+- country
 - year
 - sex
 - age
