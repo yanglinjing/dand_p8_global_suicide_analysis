@@ -4,7 +4,7 @@
 
 
 ## Introduction
-This is a Tableau Project published on [my Tableau Public](https://public.tableau.com/profile/linjing7424#!/vizhome/SuicideRateAnalysis2/1).
+This is a Tableau Project published on my Tableau Public (Click [here](https://public.tableau.com/profile/linjing7424#!/vizhome/SuicideRateAnalysis2/1) to view).
 
 The goal of this project aims at improving suicide prevention. The age, gender, generation, nationality of people who died by suicide have been analysed, as well as the economy of the countries.
 
@@ -12,11 +12,11 @@ The goal of this project aims at improving suicide prevention. The age, gender, 
 
 The data for this project consists of one data file (comes originally from [Kaggle](https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016)):
 
-- `suicide.csv`: 27820 data points (rows) with 12 columns
+- `suicide.csv`: 27,820 data points (rows) with 12 columns
 
 The columns include:
 
-1. country
+- country
 - year
 - sex
 - age
@@ -37,7 +37,27 @@ GDP also significantly affect them - as the global GDP per Capita (USD) increase
 
 Besides, the rates largely vary among countries.
 
+## Screenshot of my Project
 
+### World Map of suicides
+![World Map of suicides]()
+
+### Economy Effects on suicides
+![Economy]()
+
+### Ages
+![ages]()
+
+### Generations
+![generations]()
+
+### Suicides in Most Influential Countries
+![Suicides in Most Influential Countries]()
+
+### Gender
+![gender]()
+![gender]()
+![gender]()
 
 ## Design
 
