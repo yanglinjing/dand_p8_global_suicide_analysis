@@ -40,24 +40,26 @@ Besides, the rates largely vary among countries.
 ## Screenshot of my Project
 
 ### World Map of suicides
-![World Map of suicides]()
+![World Map of suicides](https://github.com/yanglinjing/dand_p8_global_suicide_analysis/blob/master/readme_img/1.png)
 
 ### Economy Effects on suicides
-![Economy]()
+![Economy](https://github.com/yanglinjing/dand_p8_global_suicide_analysis/blob/master/readme_img/2.png)
 
 ### Ages
-![ages]()
+![ages](https://github.com/yanglinjing/dand_p8_global_suicide_analysis/blob/master/readme_img/3.png)
+![ages & year](https://github.com/yanglinjing/dand_p8_global_suicide_analysis/blob/master/readme_img/4.png)
 
 ### Generations
-![generations]()
+![generations](https://github.com/yanglinjing/dand_p8_global_suicide_analysis/blob/master/readme_img/5.png)
+![generations & year](https://github.com/yanglinjing/dand_p8_global_suicide_analysis/blob/master/readme_img/6.png)
 
 ### Suicides in Most Influential Countries
-![Suicides in Most Influential Countries]()
+![Suicides in Most Influential Countries](https://github.com/yanglinjing/dand_p8_global_suicide_analysis/blob/master/readme_img/7.png)
 
 ### Gender
-![gender]()
-![gender]()
-![gender]()
+![gender](https://github.com/yanglinjing/dand_p8_global_suicide_analysis/blob/master/readme_img/8.png)
+![gender](https://github.com/yanglinjing/dand_p8_global_suicide_analysis/blob/master/readme_img/9.png)
+![gender](https://github.com/yanglinjing/dand_p8_global_suicide_analysis/blob/master/readme_img/10.png)
 
 ## Design
 
